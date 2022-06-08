@@ -7,6 +7,7 @@ Plot the autoleveling probs with the sharpy
 find holes to add screws inorder to hold the board flat and remove any spring
 attach the homeing prob and home
 start cut
+	if bottom then flip on y and box
 	cut depth of .15
 	travel hight of 5
 	feed of 1 (check in gcode)
